@@ -8,7 +8,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import Tasks from "./pages/Tasks";
 
 function Home() {
-  return <h1>Home</h1>;
+  return <h1>Home: Welcome to my home Page</h1>;
 }
 
 function App() {
